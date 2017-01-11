@@ -1,3 +1,4 @@
 tickets.txt
 *.log
 *.pyc
+__pycache__/*
